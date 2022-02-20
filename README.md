@@ -3,7 +3,7 @@
 This Project uses an Infinite List mechanism that shows data based on an endless scroll event and loads data only as needed to avoid critical performance issues.
 
 ## API endpoint 
->>"https://openlibrary.org/search.json"
+>"https://openlibrary.org/search.json"
 
 The endpoint returns a paginated list
 
